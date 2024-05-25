@@ -598,4 +598,4 @@ MIT
 
 ## Sponsors
 
-[<img src="https://assets.peerigon.com/peerigon/logo/peerigon-logo-flat-spinat.png" width="150" />](https://peerigon.com)
+[THIS WAS FORKED, I HAVE ZERO IDEA WHAT THEY ARE TALKING ABOUT... I DO NOT EVEN KNOW HOW TO WRITE JS]
